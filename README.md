@@ -1,3 +1,10 @@
+Added balancer_by_lua branch , devel purposes, based on the 3scale docker.
+
+
+
+
+Original README: 
+
 docker-openresty
 ================
 
